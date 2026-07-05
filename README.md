@@ -1,6 +1,6 @@
-- 👋 Hi, I’m yaosenJ
-- 👀 I’m interested in Large Language Model
-- 🌱 I’m currently learning Knowledge Graph ang RAG
+👋 Hello, I’m yaosenJ
+💼 Full-time Algorithm Engineer focusing on LLM research
+🔬 Core research directions: Agentic Reinforcement Learning & Multi-Agent frameworks
 
 My ![Visitor Count](https://komarev.com/ghpvc/?username=yaosenJ&color=green) Visitor.
 
